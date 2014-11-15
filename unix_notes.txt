@@ -1,0 +1,14 @@
+
+  124  ls help #how now to use help
+  131  ls moving_around #how to use help "use the man commanand first"
+  133  clear #clears screen
+  171  cd ~ # go to home directory can use cd "followed by a black"
+  232  ls ... # does not do anything
+  233  ls ./. # moves down two levesl
+  234  pwd # print working directory 
+  261  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl #set link to open subl in terminal
+  262  subl moving_around.txt
+  263  pwd
+  264  cd ~
+  265  pwd
+  266  history > moving_around.txt

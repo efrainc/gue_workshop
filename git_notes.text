@@ -1,0 +1,14 @@
+git git git 
+
+git init # makes a directory 
+git add # moves to a stage area
+git commit <file> "commits file with a message"
+git status # provides status
+
+Learn more about master - head relationship
+What is git?
+git is a VCS (version control system)
+Different branches control #?
+
+
+New Notes - to check pushing

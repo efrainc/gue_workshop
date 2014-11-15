@@ -17,3 +17,5 @@ git init # makes a directory
 git add # moves to a stage area
 git commit <file> "commits file with a message"
 git status # provides status
+
+Adding new Test to create a new version
